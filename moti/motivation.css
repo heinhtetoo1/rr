@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 3rem;
+    color: white;
+    text-transform: uppercase;
+}
+
+.moti {
+    color: orange;
+    font-size: 25px;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    text-align: center;
+}
+
+.vation {
+    border: 5px solid violet;
+    width: 100%;
+}
